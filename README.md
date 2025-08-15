@@ -1,4 +1,4 @@
-# cinebox
+# cinefilms
 
 A new Flutter project.
 
